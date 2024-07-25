@@ -11,7 +11,7 @@ const sql = require('mssql');
 // ()()
 const sqlConfig = {
     database: 'mydb',
-    server: 'RIC-PC',
+    server: 'Server',
     user:'code-user',
     password:'test',
     port: 54050,
